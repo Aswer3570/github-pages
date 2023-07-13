@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github-pages/static/css/main.e2157fc3.css",
-    "main.js": "/github-pages/static/js/main.9de33351.js",
+    "main.js": "/github-pages/static/js/main.6c98fb49.js",
     "static/js/787.d10e31bf.chunk.js": "/github-pages/static/js/787.d10e31bf.chunk.js",
     "static/media/Rubik-Medium.woff": "/github-pages/static/media/Rubik-Medium.33900caf5711aee3fc58.woff",
     "static/media/Rubik-Bold.woff": "/github-pages/static/media/Rubik-Bold.6ab23556ed2252d024be.woff",
@@ -44,11 +44,11 @@
     "static/media/minus-delete.svg": "/github-pages/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/done.svg": "/github-pages/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
     "main.e2157fc3.css.map": "/github-pages/static/css/main.e2157fc3.css.map",
-    "main.9de33351.js.map": "/github-pages/static/js/main.9de33351.js.map",
+    "main.6c98fb49.js.map": "/github-pages/static/js/main.6c98fb49.js.map",
     "787.d10e31bf.chunk.js.map": "/github-pages/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2157fc3.css",
-    "static/js/main.9de33351.js"
+    "static/js/main.6c98fb49.js"
   ]
 }
