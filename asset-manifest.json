@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.eedafd82.css",
-    "main.js": "/github-pages/static/js/main.166506e2.js",
+    "main.css": "/github-pages/static/css/main.9dee2c0b.css",
+    "main.js": "/github-pages/static/js/main.2d32faab.js",
     "static/js/787.d10e31bf.chunk.js": "/github-pages/static/js/787.d10e31bf.chunk.js",
     "static/media/Rubik-Medium.woff": "/github-pages/static/media/Rubik-Medium.33900caf5711aee3fc58.woff",
     "static/media/Rubik-Bold.woff": "/github-pages/static/media/Rubik-Bold.6ab23556ed2252d024be.woff",
     "static/media/Rubik-SemiBold.woff": "/github-pages/static/media/Rubik-SemiBold.ce12b51dca488f7baa2b.woff",
     "static/media/Rubik-Regular.woff": "/github-pages/static/media/Rubik-Regular.63b8568fe66f3f61217a.woff",
-    "static/media/struc-blue.svg": "/github-pages/static/media/struc-blue.ab6367a437a58dd2a2ca770bc4b5305e.svg",
     "static/media/players-blue.svg": "/github-pages/static/media/players-blue.c6dc721186de1f02948b14c72c00f73d.svg",
     "static/media/players-grey.svg": "/github-pages/static/media/players-grey.b9ce13a3c83cfcc8961506e9a8605855.svg",
     "static/media/structure_menu_blue.svg": "/github-pages/static/media/structure_menu_blue.c101529f50c9a68901ee38da47cfcc0f.svg",
@@ -46,12 +45,12 @@
     "static/media/edit_blue.svg": "/github-pages/static/media/edit_blue.ac018ee664586845c1993d5d42369a73.svg",
     "static/media/minus-delete.svg": "/github-pages/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/done.svg": "/github-pages/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
-    "main.eedafd82.css.map": "/github-pages/static/css/main.eedafd82.css.map",
-    "main.166506e2.js.map": "/github-pages/static/js/main.166506e2.js.map",
+    "main.9dee2c0b.css.map": "/github-pages/static/css/main.9dee2c0b.css.map",
+    "main.2d32faab.js.map": "/github-pages/static/js/main.2d32faab.js.map",
     "787.d10e31bf.chunk.js.map": "/github-pages/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eedafd82.css",
-    "static/js/main.166506e2.js"
+    "static/css/main.9dee2c0b.css",
+    "static/js/main.2d32faab.js"
   ]
 }
