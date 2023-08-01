@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.8da4fb10.css",
-    "main.js": "/github-pages/static/js/main.b464cb5a.js",
+    "main.css": "/github-pages/static/css/main.06734209.css",
+    "main.js": "/github-pages/static/js/main.89bbc424.js",
     "static/js/787.d10e31bf.chunk.js": "/github-pages/static/js/787.d10e31bf.chunk.js",
     "static/media/Rubik-Medium.woff": "/github-pages/static/media/Rubik-Medium.33900caf5711aee3fc58.woff",
     "static/media/Rubik-Bold.woff": "/github-pages/static/media/Rubik-Bold.6ab23556ed2252d024be.woff",
     "static/media/Rubik-SemiBold.woff": "/github-pages/static/media/Rubik-SemiBold.ce12b51dca488f7baa2b.woff",
     "static/media/Rubik-Regular.woff": "/github-pages/static/media/Rubik-Regular.63b8568fe66f3f61217a.woff",
-    "static/media/structure_menu_blue.svg": "/github-pages/static/media/structure_menu_blue.9401980da300c4784654d926f372a66d.svg",
-    "static/media/structure_menu.svg": "/github-pages/static/media/structure_menu.4c6f6fdfbf2c3bbef5dbf4cf1163bfd9.svg",
-    "static/media/build_circle_blue.svg": "/github-pages/static/media/build_circle_blue.818d60c2f63f134c1c2ba6bbc43418ba.svg",
+    "static/media/structure_menu_blue.svg": "/github-pages/static/media/structure_menu_blue.1267fb1b9a764ad59c640eff3ba3f3ac.svg",
+    "static/media/structure_menu.svg": "/github-pages/static/media/structure_menu.aab48b026337182e88630287bfa64c50.svg",
+    "static/media/build_circle_blue.svg": "/github-pages/static/media/build_circle_blue.b91da939148ecc7cf0c581ea7403ea80.svg",
     "static/media/players-blue.svg": "/github-pages/static/media/players-blue.c6dc721186de1f02948b14c72c00f73d.svg",
     "static/media/players-grey.svg": "/github-pages/static/media/players-grey.b9ce13a3c83cfcc8961506e9a8605855.svg",
     "static/media/sched-blue.svg": "/github-pages/static/media/sched-blue.ce2de6e56fcd696613d0b99bf3512ca7.svg",
@@ -48,12 +48,12 @@
     "static/media/minus-delete.svg": "/github-pages/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/edit_line_pen_blue.svg": "/github-pages/static/media/edit_line_pen_blue.934212e592b8d30bb7e60045724936a6.svg",
     "static/media/done.svg": "/github-pages/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
-    "main.8da4fb10.css.map": "/github-pages/static/css/main.8da4fb10.css.map",
-    "main.b464cb5a.js.map": "/github-pages/static/js/main.b464cb5a.js.map",
+    "main.06734209.css.map": "/github-pages/static/css/main.06734209.css.map",
+    "main.89bbc424.js.map": "/github-pages/static/js/main.89bbc424.js.map",
     "787.d10e31bf.chunk.js.map": "/github-pages/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8da4fb10.css",
-    "static/js/main.b464cb5a.js"
+    "static/css/main.06734209.css",
+    "static/js/main.89bbc424.js"
   ]
 }
