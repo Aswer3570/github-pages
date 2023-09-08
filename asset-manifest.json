@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.7c297d0a.css",
-    "main.js": "/github-pages/static/js/main.603107cf.js",
+    "main.css": "/github-pages/static/css/main.0e4e8bfd.css",
+    "main.js": "/github-pages/static/js/main.26f75d0b.js",
     "static/js/787.d10e31bf.chunk.js": "/github-pages/static/js/787.d10e31bf.chunk.js",
     "static/media/Rubik-Medium.woff": "/github-pages/static/media/Rubik-Medium.33900caf5711aee3fc58.woff",
     "static/media/Rubik-Bold.woff": "/github-pages/static/media/Rubik-Bold.6ab23556ed2252d024be.woff",
@@ -9,7 +9,6 @@
     "static/media/Rubik-Regular.woff": "/github-pages/static/media/Rubik-Regular.63b8568fe66f3f61217a.woff",
     "static/media/structure_menu_blue.svg": "/github-pages/static/media/structure_menu_blue.a9e0dce7e450e99e09120a1a5cb38030.svg",
     "static/media/structure_menu.svg": "/github-pages/static/media/structure_menu.3aa7ad32ca5947dd7ae4af071ffd9c4f.svg",
-    "static/media/build_circle_blue.svg": "/github-pages/static/media/build_circle_blue.b4e3466fdabba7d55fcad4f82522af39.svg",
     "static/media/players-blue.svg": "/github-pages/static/media/players-blue.c6dc721186de1f02948b14c72c00f73d.svg",
     "static/media/players-grey.svg": "/github-pages/static/media/players-grey.b9ce13a3c83cfcc8961506e9a8605855.svg",
     "static/media/sched-blue.svg": "/github-pages/static/media/sched-blue.ce2de6e56fcd696613d0b99bf3512ca7.svg",
@@ -24,6 +23,8 @@
     "static/media/info-grey.svg": "/github-pages/static/media/info-grey.05a9efb85956496fa5b743277a70e7f8.svg",
     "static/media/calendar.svg": "/github-pages/static/media/calendar.ce69828bfd7e5e9cc0144754e4141aad.svg",
     "static/media/hide-password.svg": "/github-pages/static/media/hide-password.d8a95293bf288c24a554f1351a87ea85.svg",
+    "static/media/cup_blue.svg": "/github-pages/static/media/cup_blue.ad6a894d1d0beffd59f967613337dd70.svg",
+    "static/media/cup.svg": "/github-pages/static/media/cup.fbddb45f1b015bf695db2bbe5edb26d8.svg",
     "static/media/account.svg": "/github-pages/static/media/account.ec06a3ad2c498a833aa93e00e5600ad2.svg",
     "static/media/translation.svg": "/github-pages/static/media/translation.b84f9a46d0cfa90c13315913299c3b8e.svg",
     "static/media/add-button.svg": "/github-pages/static/media/add-button.fea5c5ac9054d54d19fcca7e8a7f3cb6.svg",
@@ -36,7 +37,6 @@
     "static/media/home.svg": "/github-pages/static/media/home.d151bfca099d29d691f8bfc93c5de079.svg",
     "static/media/back.svg": "/github-pages/static/media/back.90b214d85c6897d4ae9f618ac46714fd.svg",
     "static/media/bucket.svg": "/github-pages/static/media/bucket.be9e70f0cf979202aa627058eec9c850.svg",
-    "static/media/edit.svg": "/github-pages/static/media/edit.c5b6fca2e4abad6d6b545d0f7878c734.svg",
     "static/media/exit-blue.svg": "/github-pages/static/media/exit-blue.931258fc6c6e99470a52256352854cb8.svg",
     "static/media/exit-grey.svg": "/github-pages/static/media/exit-grey.2e6c380f0ee024e8667b22f93c13f8c6.svg",
     "static/media/close.svg": "/github-pages/static/media/close.1ec0eec82fea925403db1d90b04c610b.svg",
@@ -44,12 +44,12 @@
     "static/media/minus-delete.svg": "/github-pages/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/edit_line_pen_blue.svg": "/github-pages/static/media/edit_line_pen_blue.934212e592b8d30bb7e60045724936a6.svg",
     "static/media/done.svg": "/github-pages/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
-    "main.7c297d0a.css.map": "/github-pages/static/css/main.7c297d0a.css.map",
-    "main.603107cf.js.map": "/github-pages/static/js/main.603107cf.js.map",
+    "main.0e4e8bfd.css.map": "/github-pages/static/css/main.0e4e8bfd.css.map",
+    "main.26f75d0b.js.map": "/github-pages/static/js/main.26f75d0b.js.map",
     "787.d10e31bf.chunk.js.map": "/github-pages/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c297d0a.css",
-    "static/js/main.603107cf.js"
+    "static/css/main.0e4e8bfd.css",
+    "static/js/main.26f75d0b.js"
   ]
 }
