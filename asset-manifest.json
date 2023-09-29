@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.2605bc7b.css",
-    "main.js": "/github-pages/static/js/main.b5c82474.js",
+    "main.css": "/github-pages/static/css/main.6b47d952.css",
+    "main.js": "/github-pages/static/js/main.db16c5b1.js",
     "static/js/787.d10e31bf.chunk.js": "/github-pages/static/js/787.d10e31bf.chunk.js",
     "static/media/Rubik-Medium.woff": "/github-pages/static/media/Rubik-Medium.33900caf5711aee3fc58.woff",
     "static/media/Rubik-Bold.woff": "/github-pages/static/media/Rubik-Bold.6ab23556ed2252d024be.woff",
@@ -27,6 +27,7 @@
     "static/media/cup.svg": "/github-pages/static/media/cup.fbddb45f1b015bf695db2bbe5edb26d8.svg",
     "static/media/account.svg": "/github-pages/static/media/account.ec06a3ad2c498a833aa93e00e5600ad2.svg",
     "static/media/translation.svg": "/github-pages/static/media/translation.b84f9a46d0cfa90c13315913299c3b8e.svg",
+    "static/media/download.svg": "/github-pages/static/media/download.52bd92ebd1ebc2815589659178bca8e0.svg",
     "static/media/add-button.svg": "/github-pages/static/media/add-button.fea5c5ac9054d54d19fcca7e8a7f3cb6.svg",
     "static/media/plus-blue.svg": "/github-pages/static/media/plus-blue.26dc98bb12fc911bedd044a5ed3d7406.svg",
     "static/media/cross.svg": "/github-pages/static/media/cross.4fd3507af8acc104d45e5303d2c3c0b3.svg",
@@ -45,12 +46,12 @@
     "static/media/minus-delete.svg": "/github-pages/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/edit_line_pen_blue.svg": "/github-pages/static/media/edit_line_pen_blue.934212e592b8d30bb7e60045724936a6.svg",
     "static/media/done.svg": "/github-pages/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
-    "main.2605bc7b.css.map": "/github-pages/static/css/main.2605bc7b.css.map",
-    "main.b5c82474.js.map": "/github-pages/static/js/main.b5c82474.js.map",
+    "main.6b47d952.css.map": "/github-pages/static/css/main.6b47d952.css.map",
+    "main.db16c5b1.js.map": "/github-pages/static/js/main.db16c5b1.js.map",
     "787.d10e31bf.chunk.js.map": "/github-pages/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2605bc7b.css",
-    "static/js/main.b5c82474.js"
+    "static/css/main.6b47d952.css",
+    "static/js/main.db16c5b1.js"
   ]
 }
