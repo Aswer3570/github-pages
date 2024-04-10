@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.1a5c6e3d.css",
-    "main.js": "/github-pages/static/js/main.5b5d1911.js",
+    "main.css": "/github-pages/static/css/main.15012998.css",
+    "main.js": "/github-pages/static/js/main.4368f054.js",
     "static/js/787.d10e31bf.chunk.js": "/github-pages/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/github-pages/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/github-pages/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
     "static/media/rokets.svg": "/github-pages/static/media/rokets.76eb89fd393d91f71e00ba79bb00fe0f.svg",
     "static/media/rockets.svg": "/github-pages/static/media/rockets.6ffe2a6ce8b938b0735ad145885d3c98.svg",
-    "static/media/struc-grey-new.svg": "/github-pages/static/media/struc-grey-new.f6366706d1b4398fa72919e7ffebc3c3.svg",
     "static/media/schedule.svg": "/github-pages/static/media/schedule.7800b4d68b35affe0eeb223d61eb6284.svg",
     "static/media/participants.svg": "/github-pages/static/media/participants.2bdf8680bebfa5a1bd2d71247894a0c3.svg",
     "static/media/structure.svg": "/github-pages/static/media/structure.9d1cbf0bbb32d24bb6546dbccd0e22e8.svg",
-    "static/media/round_robin.svg": "/github-pages/static/media/round_robin.b1b4e30aebe80967db87feaa284e8ff9.svg",
     "static/media/cup.svg": "/github-pages/static/media/cup.ed52837d3b07c3ad9f7fdff55672bec5.svg",
     "static/media/tentur_logo.svg": "/github-pages/static/media/tentur_logo.85d58f061d3f8e0d47b5b7556b500756.svg",
     "static/media/chain.svg": "/github-pages/static/media/chain.78812981ab9943167c4aa7f6ef63cf1c.svg",
     "static/media/community.svg": "/github-pages/static/media/community.af083f721d0b10ab8fe7511144737e2a.svg",
     "static/media/magic_stick.svg": "/github-pages/static/media/magic_stick.64e35390afe16e25dd75b2ffbcbc8361.svg",
+    "static/media/struc.svg": "/github-pages/static/media/struc.a09b3132738cb8b30839768a714e6592.svg",
     "static/media/grids.svg": "/github-pages/static/media/grids.33df8d759a13f71733871ffe46bf442f.svg",
     "static/media/players.svg": "/github-pages/static/media/players.38dc85053cc351d17dd0f3f57cf1a6e7.svg",
     "static/media/warning.svg": "/github-pages/static/media/warning.8fd67b8e48a1e08aaede0d0af439e90d.svg",
@@ -27,6 +26,7 @@
     "static/media/edit_note.svg": "/github-pages/static/media/edit_note.22cc5ef9e6847d01fa5b2af2b406a86e.svg",
     "static/media/account.svg": "/github-pages/static/media/account.0c1f7c1cb04d34bc05919d91f041307e.svg",
     "static/media/round-plus.svg": "/github-pages/static/media/round-plus.9b1b7b645b9404978f7f8157dc95cdd5.svg",
+    "static/media/round_robin.svg": "/github-pages/static/media/round_robin.3256508936882eb5acbb1f729ee95486.svg",
     "static/media/exit-tour.svg": "/github-pages/static/media/exit-tour.13f483f125039adfd4c387a713a16a47.svg",
     "static/media/pen_stage.svg": "/github-pages/static/media/pen_stage.3dcbf5eb54b4419741d9f92e47912653.svg",
     "static/media/cross_set.svg": "/github-pages/static/media/cross_set.1511588310fc056b86887e9549015526.svg",
@@ -49,12 +49,12 @@
     "static/media/drag.svg": "/github-pages/static/media/drag.4937626fdd42937107acb712d1c4fc74.svg",
     "static/media/minus-delete.svg": "/github-pages/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/remove.svg": "/github-pages/static/media/remove.0e70acb6b570abf955f4953f23f71f7e.svg",
-    "main.1a5c6e3d.css.map": "/github-pages/static/css/main.1a5c6e3d.css.map",
-    "main.5b5d1911.js.map": "/github-pages/static/js/main.5b5d1911.js.map",
+    "main.15012998.css.map": "/github-pages/static/css/main.15012998.css.map",
+    "main.4368f054.js.map": "/github-pages/static/js/main.4368f054.js.map",
     "787.d10e31bf.chunk.js.map": "/github-pages/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a5c6e3d.css",
-    "static/js/main.5b5d1911.js"
+    "static/css/main.15012998.css",
+    "static/js/main.4368f054.js"
   ]
 }
