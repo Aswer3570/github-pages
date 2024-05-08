@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.5bdb5f70.css",
-    "main.js": "/github-pages/static/js/main.1498dade.js",
+    "main.css": "/github-pages/static/css/main.bfd29fb1.css",
+    "main.js": "/github-pages/static/js/main.a6a3449a.js",
     "static/js/787.d10e31bf.chunk.js": "/github-pages/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/github-pages/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/github-pages/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
@@ -55,12 +55,12 @@
     "static/media/edit_blue.svg": "/github-pages/static/media/edit_blue.ac018ee664586845c1993d5d42369a73.svg",
     "static/media/drag.svg": "/github-pages/static/media/drag.4937626fdd42937107acb712d1c4fc74.svg",
     "static/media/remove.svg": "/github-pages/static/media/remove.0e70acb6b570abf955f4953f23f71f7e.svg",
-    "main.5bdb5f70.css.map": "/github-pages/static/css/main.5bdb5f70.css.map",
-    "main.1498dade.js.map": "/github-pages/static/js/main.1498dade.js.map",
+    "main.bfd29fb1.css.map": "/github-pages/static/css/main.bfd29fb1.css.map",
+    "main.a6a3449a.js.map": "/github-pages/static/js/main.a6a3449a.js.map",
     "787.d10e31bf.chunk.js.map": "/github-pages/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bdb5f70.css",
-    "static/js/main.1498dade.js"
+    "static/css/main.bfd29fb1.css",
+    "static/js/main.a6a3449a.js"
   ]
 }
