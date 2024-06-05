@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.e1f43f05.css",
-    "main.js": "/github-pages/static/js/main.ca0bfdf1.js",
+    "main.css": "/github-pages/static/css/main.888e71c7.css",
+    "main.js": "/github-pages/static/js/main.2ce58118.js",
     "static/js/787.d10e31bf.chunk.js": "/github-pages/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/github-pages/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/github-pages/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
     "static/media/rokets.svg": "/github-pages/static/media/rokets.76eb89fd393d91f71e00ba79bb00fe0f.svg",
     "static/media/rockets.svg": "/github-pages/static/media/rockets.6ffe2a6ce8b938b0735ad145885d3c98.svg",
+    "static/media/player.svg": "/github-pages/static/media/player.d8f9489fdefbcd21fcb9d67326bb86b3.svg",
     "static/media/schedule.svg": "/github-pages/static/media/schedule.7800b4d68b35affe0eeb223d61eb6284.svg",
     "static/media/participants.svg": "/github-pages/static/media/participants.2bdf8680bebfa5a1bd2d71247894a0c3.svg",
     "static/media/structure.svg": "/github-pages/static/media/structure.9d1cbf0bbb32d24bb6546dbccd0e22e8.svg",
@@ -56,12 +57,12 @@
     "static/media/edit_blue.svg": "/github-pages/static/media/edit_blue.ac018ee664586845c1993d5d42369a73.svg",
     "static/media/drag.svg": "/github-pages/static/media/drag.4937626fdd42937107acb712d1c4fc74.svg",
     "static/media/remove.svg": "/github-pages/static/media/remove.0e70acb6b570abf955f4953f23f71f7e.svg",
-    "main.e1f43f05.css.map": "/github-pages/static/css/main.e1f43f05.css.map",
-    "main.ca0bfdf1.js.map": "/github-pages/static/js/main.ca0bfdf1.js.map",
+    "main.888e71c7.css.map": "/github-pages/static/css/main.888e71c7.css.map",
+    "main.2ce58118.js.map": "/github-pages/static/js/main.2ce58118.js.map",
     "787.d10e31bf.chunk.js.map": "/github-pages/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1f43f05.css",
-    "static/js/main.ca0bfdf1.js"
+    "static/css/main.888e71c7.css",
+    "static/js/main.2ce58118.js"
   ]
 }
