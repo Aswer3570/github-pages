@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.b36ef3dc.css",
-    "main.js": "/github-pages/static/js/main.86a35197.js",
+    "main.css": "/github-pages/static/css/main.b5fe7bd5.css",
+    "main.js": "/github-pages/static/js/main.f7b417f5.js",
     "static/js/787.d10e31bf.chunk.js": "/github-pages/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/github-pages/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/github-pages/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
@@ -35,6 +35,7 @@
     "static/media/no_play.svg": "/github-pages/static/media/no_play.ad4fbb0bf97ef1f5f412823c6ed7cf19.svg",
     "static/media/pen_stage.svg": "/github-pages/static/media/pen_stage.3dcbf5eb54b4419741d9f92e47912653.svg",
     "static/media/cross_set.svg": "/github-pages/static/media/cross_set.1511588310fc056b86887e9549015526.svg",
+    "static/media/cross-blocked.svg": "/github-pages/static/media/cross-blocked.2640dce2067702ea393065a769070be4.svg",
     "static/media/match_plus.svg": "/github-pages/static/media/match_plus.90d7319d254cbfb3a6d2e0effad90c08.svg",
     "static/media/info-tour.svg": "/github-pages/static/media/info-tour.8da104f3ad3d6aa7b105cc0e454af76d.svg",
     "static/media/visibility.svg": "/github-pages/static/media/visibility.64bd0cd898ce5ac0371ca4634eeaf416.svg",
@@ -54,12 +55,13 @@
     "static/media/edit_blue.svg": "/github-pages/static/media/edit_blue.ac018ee664586845c1993d5d42369a73.svg",
     "static/media/drag.svg": "/github-pages/static/media/drag.4937626fdd42937107acb712d1c4fc74.svg",
     "static/media/remove.svg": "/github-pages/static/media/remove.0e70acb6b570abf955f4953f23f71f7e.svg",
-    "main.b36ef3dc.css.map": "/github-pages/static/css/main.b36ef3dc.css.map",
-    "main.86a35197.js.map": "/github-pages/static/js/main.86a35197.js.map",
+    "static/media/checkmark.svg": "/github-pages/static/media/checkmark.5c4e7b37bc5c5189a6d3af7e0b893ea4.svg",
+    "main.b5fe7bd5.css.map": "/github-pages/static/css/main.b5fe7bd5.css.map",
+    "main.f7b417f5.js.map": "/github-pages/static/js/main.f7b417f5.js.map",
     "787.d10e31bf.chunk.js.map": "/github-pages/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b36ef3dc.css",
-    "static/js/main.86a35197.js"
+    "static/css/main.b5fe7bd5.css",
+    "static/js/main.f7b417f5.js"
   ]
 }
